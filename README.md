@@ -2,7 +2,7 @@ Hi, thanks for visiting my profile!
 
 I'm a 4th year student at NYU studying computer science w/ some psychology and studio art mixed in. My academic interests are mainly in web development, computer security, and neuroscience.
 
-I'm currently working on some personal projects like [Dejumbler](https://github.com/anpanring/dejumbler) and my [personal website](https://github.com/anpanring/jack-site), and would love to work on stuff with any like-minded people. Feel free to reach me at <jid9834@nyu.edu>.
+I'm currently working on some personal projects like [Dejumbler](https://github.com/anpanring/dejumbler) and my [personal website](https://github.com/anpanring/jack-site), and would love to work on stuff with any like-minded people. Feel free to reach me at <jdempsey2024@gmail.com>.
 
 <!--
 **anpanring/anpanring** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
